@@ -1,0 +1,16 @@
+ReadMe file for TRF project:
+
+Goal: Reconstruting the time series by learning its contextual variables from subsequences(not subseries)
+
+Files:
+  A: Surrogate dataset.ipynb
+      The main notebook script for running the simulution study for testing the denoising capacity of our model.
+      This includes the training scripts for both modules 1+2 with certain trainning Set-ups
+      
+  B.CPC-2.ipynb [To be uploaded soon]
+  
+      The main notebook script that hubs for the expeirment on Age-related datasets for generating a real fMRI dataset.
+      
+  C. To be continued [Upcoming soon]
+
+      
