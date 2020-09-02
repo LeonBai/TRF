@@ -7,6 +7,12 @@ Files:
       The main notebook script for running the simulution study for testing the denoising capacity of our model.
       This includes the training scripts for both modules 1+2 with certain trainning Set-ups
       
+      A-1.M1.py
+        The main function hub for local denoising modular training.
+        
+      A-2.M2.py
+        The main function hub for common-resolution learning modular training.
+      
   B.CPC-2.ipynb [To be uploaded soon]
   
       The main notebook script that hubs for the expeirment on Age-related datasets for generating a real fMRI dataset.
