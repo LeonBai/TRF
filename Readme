@@ -1,6 +1,11 @@
 ReadMe file for TRF project:
 
-Goal: Reconstruting the time series by learning its contextual variables from subsequences(not subseries)
+Title: Reconstruting the time series by learning its contextual variables from subsequences(not subseries)
+
+
+Needed library:
+
+  Keras >=1.4; Numpy; Scipy; Matplotlib 
 
 Files:
   A: Surrogate dataset.ipynb
